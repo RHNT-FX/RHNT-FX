@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently studying at KALIMANTAN INSTITUTE TECHNOLOGIES<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for any vape model<br>🌱 I’m currently learning java language <br>💬 I've had interest in IoT.<br>⚡ i love my gf and fishing, also vape
+# 🚬🚬🚬 About Me:
+🔭 I'm a student at the **Kalimantan Institute of Technology**, pursuing a degree in Informatics.
+<br>🌱 I'm currently focused on strengthening my skills in **Java** and exploring its ecosystem.
+<br>👯 I am open to collaborating on innovative projects and contributing to open-source.
+<br>💬 I have a keen interest in the **Internet of Things (IoT)** and its potential to solve real-world problems.
+<br>🤝 Feel free to reach out to me for collaborations or just a friendly chat about technology!
+<br>⚡ Fun fact: When I'm not at the computer, I enjoy fishing and exploring new tech gadgets.
 
 
 ## 🌐 Socials:
