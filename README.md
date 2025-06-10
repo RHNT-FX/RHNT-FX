@@ -1,4 +1,4 @@
-# 🚬🚬🚬 About Me:
+# 🚬 About Me:
 🔭 I'm a student at the **Kalimantan Institute of Technology**, pursuing a degree in Informatics.
 <br>🌱 I'm currently focused on strengthening my skills in **Java** and exploring its ecosystem.
 <br>👯 I am open to collaborating on innovative projects and contributing to open-source.
